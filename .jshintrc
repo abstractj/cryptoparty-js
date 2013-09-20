@@ -1,0 +1,20 @@
+{
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "latedef": true,
+    "loopfunc": true,
+    "noarg": true,
+    "noempty": true,
+    "undef": true,
+    "trailing": true,
+    "globals": {
+        "jQuery": true,
+        "AeroGear": true,
+        "require": true,
+        "uuid": true,
+        "vertx": true,
+        "SockJS": true,
+        "Stomp": true
+    }
+}
